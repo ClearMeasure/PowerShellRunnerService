@@ -1,0 +1,6 @@
+/src/ExampleTests/bin/Debug
+/src/ExampleTests/obj/Debug
+/src/PowerShellRunnerService.sln.DotSettings.user
+/src/*.suo
+/src/PowerShellRunnerService/bin/Debug
+/src/PowerShellRunnerService/obj/Debug
