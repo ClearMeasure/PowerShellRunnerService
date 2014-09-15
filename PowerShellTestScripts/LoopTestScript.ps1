@@ -12,7 +12,7 @@ Write-Output $buildOptions
 & $nunit $nunit $targetDll $buildOptions
 
 $testResults = Get-Content $resultXml
-Write-Output $testResults
+#Write-Output $testResults
 
 $testResults.IndexOf('False')
 
